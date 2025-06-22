@@ -188,14 +188,19 @@ npm run type-check   # TypeScript type checking
 
 <div align="center">
 
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Admin+Dashboard)
-
-### Exam Interface
-![Exam Interface](https://via.placeholder.com/800x400/10B981/FFFFFF?text=AI+Proctored+Exam)
-
-### Analytics Dashboard
-![Analytics](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Analytics+Overview)
+<div align="center">
+🧑‍💼 Recruiter Dashboard
+<img src="./assets/screenshots/Screenshot (47).png" alt="Recruiter Dashboard" width="800"/>
+🛡️ Admin Dashboard
+<img src="./assets/screenshots/Screenshot (48).png" alt="Admin Dashboard" width="800"/>
+👩‍🎓 Student Dashboard
+<img src="./assets/screenshots/Screenshot (49).png" alt="Student Dashboard" width="800"/>
+📝 Exam Interface
+<img src="./assets/screenshots/Screenshot (50).png" alt="Exam Interface" width="800"/>
+📊 Exam Results
+<img src="./assets/screenshots/Screenshot (51).png" alt="Exam Results" width="800"/>
+📁 My Results
+<img src="./assets/screenshots/Screenshot (52).png" alt="My Results" width="800"/> </div>
 
 </div>
 
