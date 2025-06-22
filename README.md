@@ -1,3 +1,4 @@
+
 # 🧠 IntelliHire - AI-Powered Proctored Testing Platform
 
 <div align="center">
@@ -187,21 +188,13 @@ npm run type-check   # TypeScript type checking
 ## 🎨 Screenshots
 
 <div align="center">
-
-<div align="center">
-🧑‍💼 Recruiter Dashboard
-<img src="./assets/screenshots/Screenshot (47).png" alt="Recruiter Dashboard" width="800"/>
-🛡️ Admin Dashboard
-<img src="./assets/screenshots/Screenshot (48).png" alt="Admin Dashboard" width="800"/>
-👩‍🎓 Student Dashboard
-<img src="./assets/screenshots/Screenshot (49).png" alt="Student Dashboard" width="800"/>
-📝 Exam Interface
-<img src="./assets/screenshots/Screenshot (50).png" alt="Exam Interface" width="800"/>
-📊 Exam Results
-<img src="./assets/screenshots/Screenshot (51).png" alt="Exam Results" width="800"/>
-📁 My Results
-<img src="./assets/screenshots/Screenshot (52).png" alt="My Results" width="800"/> </div>
-
+   
+![Screenshot (52)](https://github.com/user-attachments/assets/da516e16-c4f7-48af-8271-9de0555337e6)
+![Screenshot (51)](https://github.com/user-attachments/assets/ac161959-2671-4b3e-ade1-5f365e1272db)
+![Screenshot (50)](https://github.com/user-attachments/assets/42f98761-24c4-4874-8391-114d1ac9d464)
+![Screenshot (49)](https://github.com/user-attachments/assets/edadde81-4157-4076-902a-5c4a8a679c7e)
+![Screenshot (48)](https://github.com/user-attachments/assets/7d76cce6-af86-4178-9808-b3debb17e158)
+![Screenshot (47)](https://github.com/user-attachments/assets/17e6c3a9-7710-4184-91b1-51d0496983e5)
 </div>
 
 ---
