@@ -193,6 +193,14 @@ npm run type-check   # TypeScript type checking
 
 <img src="https://github.com/user-attachments/assets/42f98761-24c4-4874-8391-114d1ac9d464" alt="Exam Interface" width="800"/>
 
+### 📊 Exam Results
+
+<img src="https://github.com/user-attachments/assets/ac161959-2671-4b3e-ade1-5f365e1272db" alt="Exam Results" width="800"/>
+
+### 📁 My Results
+
+<img src="https://github.com/user-attachments/assets/da516e16-c4f7-48af-8271-9de0555337e6" alt="My Results" width="800"/>
+
 ### 🛡️ Admin Dashboard
 
 <img src="https://github.com/user-attachments/assets/7d76cce6-af86-4178-9808-b3debb17e158" alt="Admin Dashboard" width="800"/>
@@ -204,14 +212,6 @@ npm run type-check   # TypeScript type checking
 ### 🧑‍💼 Recruiter Dashboard
 
 <img src="https://github.com/user-attachments/assets/17e6c3a9-7710-4184-91b1-51d0496983e5" alt="Recruiter Dashboard" width="800"/>
-
-### 📁 My Results
-
-<img src="https://github.com/user-attachments/assets/da516e16-c4f7-48af-8271-9de0555337e6" alt="My Results" width="800"/>
-
-### 📊 Exam Results
-
-<img src="https://github.com/user-attachments/assets/ac161959-2671-4b3e-ade1-5f365e1272db" alt="Exam Results" width="800"/>
 
 </div>
 
